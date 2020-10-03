@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SkibetBackendApplication {
+public class SkiBetBackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SkibetBackendApplication.class, args);
+        SpringApplication.run(SkiBetBackendApplication.class, args);
     }
 
 }
